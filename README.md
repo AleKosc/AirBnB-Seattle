@@ -3,7 +3,7 @@ When visiting a new place, one of the important choices is to decide where to st
 
 To summarise the analysis, if you are on a budget, stay away from downtown. Even though University District and Maple Leaf are much cheaper, they also tend to not be good value for money and don't get very good reviews. You are probably best off staying somewhere in the North West if price matters to you.
 
-Please see the notebook for a more detailed analysis and visuals by either going there directly or clicking on the [link](https://github.com/AleKosc/AirBnB-Seattle/blob/master/AirBnB%20Seattle.ipynb). I also wrote a blog on [Medium](https://medium.com/@ale.kosciansky/where-to-stay-in-seattle-with-airbnb-46392bab3c08).
+Please see the notebook for a more detailed analysis and visuals by either going there directly or clicking on the [link](https://github.com/AleKosc/AirBnB-Seattle/blob/master/AirBnB%20Seattle.ipynb). I also wrote a blog post on [Medium](https://medium.com/@ale.kosciansky/where-to-stay-in-seattle-with-airbnb-46392bab3c08).
 
 I used the following libraries:
 
